@@ -1,0 +1,8 @@
+torch
+torchenhanced==0.2.16.2
+h5py
+numpy
+tqdm
+wandb
+opencv-python
+galois

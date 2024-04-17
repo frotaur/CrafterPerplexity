@@ -1,0 +1,7 @@
+h5data
+__pycache__
+tokendata
+galois/datasets
+runs
+perturb_training/trained_states
+perturb_training/datasets
